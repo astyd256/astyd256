@@ -2,7 +2,6 @@
 
 ![There was a Freddy gif](https://c.tenor.com/KDyTDDxug4cAAAAd/fredbear-dance.gif)
 <!--
-**astyd256/astyd256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
